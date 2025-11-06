@@ -1,0 +1,2 @@
+# copy_move_forgery_detection
+Kaggle competition
