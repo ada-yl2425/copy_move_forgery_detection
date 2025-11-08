@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & Outputs (!!!)
+/data/
+/outputs/
+
+# Colab/Kaggle
+kaggle.json
+.config/
