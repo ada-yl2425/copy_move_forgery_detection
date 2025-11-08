@@ -1,0 +1,23 @@
+{
+  "img_size": [
+    512,
+    512
+  ],
+  "normalization_mean": [
+    0.445,
+    0.439,
+    0.438
+  ],
+  "normalization_std": [
+    0.269,
+    0.262,
+    0.263
+  ],
+  "augmentation_params": {
+    "brightness_limit": 0.1,
+    "contrast_limit": 0.1,
+    "hue_shift_limit": 5,
+    "sat_shift_limit": 10,
+    "val_shift_limit": 5
+  }
+}

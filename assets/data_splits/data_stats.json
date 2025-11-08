@@ -1,0 +1,26 @@
+{
+  "train_size": 4101,
+  "val_size": 1027,
+  "batch_size": 4,
+  "image_size": [
+    512,
+    512
+  ],
+  "normalization_mean": [
+    0.445,
+    0.439,
+    0.438
+  ],
+  "normalization_std": [
+    0.269,
+    0.262,
+    0.263
+  ],
+  "input_channels": 3,
+  "output_channels": 1,
+  "data_path": "./forgery_data",
+  "class_weights": [
+    1.0,
+    103.71745229165494
+  ]
+}
